@@ -54,8 +54,8 @@ Telegram → Python Bot → Ollama (AI)
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-devops-telegram-bot.git
-cd ai-devops-telegram-bot
+git clone https://github.com/harpal1990/AWS-Telegram-agent.git
+cd AWS-Telegram-agent
 ```
 
 ---
@@ -217,46 +217,3 @@ Bot sends result back to Telegram
 
 ---
 
-## 🎥 YouTube Demo Idea
-
-**Title:**
-
-> Build Your Own AI DevOps Agent (Telegram + AWS + Ollama)
-
-**Demo Flow:**
-
-* Show problem (manual AWS ops)
-* Introduce bot
-* Live demo (/status, /brief, start/stop)
-* Explain architecture
-* Show code walkthrough
-
----
-
-## ⭐ Contribute
-
-Feel free to fork, improve, and contribute!
-
----
-
-## 📜 License
-
-MIT License
-
----
-
-## 🙌 Acknowledgements
-
-* AWS boto3
-* Telegram Bot API
-* Ollama (Local LLM)
-
----
-
-## 💡 Final Thought
-
-> This project is a powerful example of combining **AI + Cloud + Automation** into a real-world DevOps solution.
-
----
-
-🔥 *If you like this project, don’t forget to star the repo!*
