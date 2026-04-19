@@ -9,7 +9,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 
 # ================= CONFIG =================
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-ALLOWED_USERS = [623957865]  # your Telegram user ID
+ALLOWED_USERS = [TELEGRAM_USER_ID]  # your Telegram user ID
 REGIONS = ["ap-south-1", "eu-central-1", "us-east-1"]
 
 logging.basicConfig(level=logging.INFO)
